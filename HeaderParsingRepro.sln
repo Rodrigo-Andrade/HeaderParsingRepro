@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29319.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeaderParsingRepro", "HeaderParsingRepro\HeaderParsingRepro.csproj", "{C1E113E0-A2CC-474B-8585-18841BD1F126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeaderParsingRepro.WebApp", "HeaderParsingRepro.WebApp\HeaderParsingRepro.WebApp.csproj", "{BE419B42-48EE-4998-B0D7-03D0EF99844D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1E113E0-A2CC-474B-8585-18841BD1F126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E113E0-A2CC-474B-8585-18841BD1F126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E113E0-A2CC-474B-8585-18841BD1F126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E113E0-A2CC-474B-8585-18841BD1F126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE419B42-48EE-4998-B0D7-03D0EF99844D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE419B42-48EE-4998-B0D7-03D0EF99844D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE419B42-48EE-4998-B0D7-03D0EF99844D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE419B42-48EE-4998-B0D7-03D0EF99844D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BCA8864-EB81-4B4D-B1D7-D91479E1FCF1}
+	EndGlobalSection
+EndGlobal
